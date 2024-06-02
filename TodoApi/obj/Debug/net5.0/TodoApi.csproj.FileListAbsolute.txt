@@ -1,0 +1,7 @@
+C:\Users\tanya\OneDrive\Documents\projects_2024\to_do_2024\TodoApi\obj\Debug\net5.0\TodoApi.csproj.AssemblyReference.cache
+C:\Users\tanya\OneDrive\Documents\projects_2024\to_do_2024\TodoApi\obj\Debug\net5.0\TodoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanya\OneDrive\Documents\projects_2024\to_do_2024\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\tanya\OneDrive\Documents\projects_2024\to_do_2024\TodoApi\obj\Debug\net5.0\TodoApi.AssemblyInfo.cs
+C:\Users\tanya\OneDrive\Documents\projects_2024\to_do_2024\TodoApi\obj\Debug\net5.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\tanya\OneDrive\Documents\projects_2024\to_do_2024\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tanya\OneDrive\Documents\projects_2024\to_do_2024\TodoApi\obj\Debug\net5.0\TodoApi.MvcApplicationPartsAssemblyInfo.cache
